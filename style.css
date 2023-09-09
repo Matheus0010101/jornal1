@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #d3d3d3;
+}
+
+.logo-menor{
+    display: flex;
+    padding-left: 5vw;
+}
+
+.login{
+    display: flex;
+    align-items: center;
+    font-size: 5vh;
+    text-decoration: none;
+    color: black;
+    padding-right: 5vw;
+}
+
+.sessao_um{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #bab9b9;
+}
+
+.sessao-href{
+    display: flex;
+    font-size: 4vh;
+    text-decoration: none;
+    color: black;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 7vh;
+    padding-top: 5vh;
+}
+
+.logo_dois{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+footer{
+    height: 10vh;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    color:white;
+    align-items: center;
+}
+
+
+
+
